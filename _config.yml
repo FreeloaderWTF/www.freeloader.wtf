@@ -1,0 +1,11 @@
+#
+# _config.yml for karma.zone
+#
+
+exclude: [ "CNAME", "README.md", "LICENSE.txt", "tmp", "*.sh", "**/*_src*" ]
+permalink: /news/:year-:month-:day/index.html
+production_url: http://www.freeloader.wtf
+title : Freeloader.WTF
+gems:
+  - jekyll-redirect-from
+markdown: kramdown

@@ -1,0 +1,62 @@
+- name: 1MB.bin
+  description: 1MB binary file of random gibberish
+  md5sum: e52038f4fe04178dc384435416176bab
+  prefix: /binary/1MB 
+  category: binary
+  size: 1048576
+
+- name: 2MB.bin
+  description: 2MB binary file of random gibberish
+  md5sum: 85aa8bddd7cee4d01b6b74f71fc74a47  
+  prefix: /binary/2MB  
+  category: binary 
+  size: 2097152
+
+- name: 5MB.bin
+  description: 5MB binary file of random gibberish
+  md5sum: 5abb66e46fa442b836889b1b922ce5c1  
+  prefix: /binary/5MB  
+  category: binary 
+  size: 5242880
+
+- name: 10MB.bin
+  description: 10MB binary file of random gibberish
+  md5sum: 498312c1c761449369a63bcf8c82ae6f  
+  prefix: /binary/10MB  
+  category: binary 
+  size: 10485760
+
+- name: 20MB.bin
+  description: 20MB binary file of random gibberish
+  md5sum: c95d34f17a17db2726109cd64dcdc69c  
+  prefix: /binary/20MB  
+  category: binary
+  size: 20971520
+
+- name: 50MB.bin
+  description: 50MB binary file of random gibberish
+  md5sum: 8b23b72099bba8857a8ea6b5f81baa85  
+  prefix: /binary/50MB  
+  category: binary 
+  size: 52428800
+
+- name: 100MB.bin
+  description: 100MB binary file of random gibberish
+  md5sum: 8f96dada1f5662794b3e5cf28221e7e8  
+  prefix: /binary/100MB  
+  category: binary 
+  size: 104857600
+
+- name: 200MB.bin
+  description: 200MB binary file of random gibberish
+  md5sum: d45be42923ee6ec0488e0d4ee07cf082  
+  prefix: /binary/200MB  
+  category: binary 
+  size: 209715200
+
+- name: 500MB.bin
+  description: 500MB binary file of random gibberish
+  md5sum: c716812f46f4bafec7a728dd5cd75696
+  prefix: /binary/500MB  
+  category: binary 
+  size: 524288000

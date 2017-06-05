@@ -1,0 +1,24 @@
+---
+# Remember to set production_url in your _config.yml file!
+title : Robots.txt
+noindex: true
+---
+#
+# robots.txt for www.freeloader.wtf
+#
+
+Sitemap: {{site.production_url}}/sitemap.xml
+
+User-agent: GoogleBot
+Allow: /css
+Allow: /js
+Disallow: /fonts
+Disallow: /honeypot.txt
+Disallow: /images
+
+User-agent: *
+Disallow: /css
+Disallow: /fonts
+Disallow: /honeypot.txt
+Disallow: /images
+Disallow: /js
