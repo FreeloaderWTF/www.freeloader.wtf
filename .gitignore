@@ -1,4 +1,15 @@
+*~
+.cache
+cache/
+*.class
+crash.log
+.env
+.idea/
+.jekyll-metadata
+*.pyc
+.sass-cache/
 _site/
 tmp/
-*~
-crash.log
+_tmp/
+venv/
+.vscode
