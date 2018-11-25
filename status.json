@@ -1,4 +1,5 @@
 ---
+layout: none
 noindex: true
 ---
-{ "success":true, "message":"OK" }
+{ "success":true, "message":"OK", "commit":"{{site.github.build_revision | default: site.data.build_revision | default: 'null' | slice: 0, 7 }}", "lastmod":"{{site.time|date_to_xmlschema}}" }
