@@ -4,6 +4,12 @@
 
 So you can tweak them when they finally figure out what's happening
 
+## GIF stream
+
+Animated GIF that never stops
+
+* [gif-stream](https://github.com/devongovett/gif-stream)
+
 ## Endless Redirects
 
 * Redirect (after a pause)

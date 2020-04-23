@@ -9,3 +9,7 @@ title : Freeloader.WTF
 gems:
   - jekyll-redirect-from
 markdown: kramdown
+redirect_from:
+  json: false
+theme: null
+
