@@ -6,7 +6,7 @@ exclude: [ "CNAME", "README.md", "LICENSE.txt", "TODO.md", "tmp", "*.sh", "**/*_
 permalink: /news/:year-:month-:day/index.html
 production_url: https://www.freeloader.wtf
 title : Freeloader.WTF
-gems:
+plugins:
   - jekyll-redirect-from
 markdown: kramdown
 redirect_from:

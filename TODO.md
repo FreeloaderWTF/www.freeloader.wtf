@@ -1,4 +1,9 @@
-# To Do
+---
+title: To Do
+layout: default
+---
+
+These are things that I've though of but haven't implemented yet.  Feel free to contribute!
 
 ## Flexible file names
 
@@ -31,13 +36,13 @@ JSON callbacks that will slow their browsers to a crawl.  Or a crypto-miner.
 
 ## Bombs
 
-* [ ] [XML/YAML bomb](https://en.wikipedia.org/wiki/Billion_laughs_attack)
-* [ ] Regex
-* [ ] Zip - Tiny ZIP files that uncompress into disk-filling behemoths.
+* [XML/YAML bomb](https://en.wikipedia.org/wiki/Billion_laughs_attack)
+* Regex
+* Zip - Tiny ZIP files that uncompress into disk-filling behemoths.
 
 ## Images
 
-* [ ] random uncompressable static, in custom sizes (like the placeholder sites)
-* [ ] rude hand gestures
-* [ ] images: rotten apple images for apple icons
-* [ ] risque bookplates (I'm too classy for actual porn)
+* random uncompressable static, in custom sizes (like the placeholder sites)
+* rude hand gestures
+* images: rotten apple images for apple icons
+* risque bookplates (I'm too classy for actual porn)
